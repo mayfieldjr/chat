@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\User\version-control\Filmings\app\build\intermediates\pre-dexed\androidTest\debug\jsr305-2.0.1_da47f4fe6fd0ff761eb82532e5e11c601a8158c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\d96b45c7e03b316fccd1f07c953c9a22a2428fea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="C:\Users\User\version-control\Filmings\app\build\intermediates\pre-dexed\androidTest\debug\classes_1d5b0f7c5badfa9b7bbfd916e1c93891b0fec2ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="C:\Users\User\version-control\Filmings\app\build\intermediates\pre-dexed\androidTest\debug\javax.annotation-api-1.2_a04b8f55f867242f59a6f765238c4cbf4195ebd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="C:\Users\User\version-control\Filmings\app\build\intermediates\pre-dexed\androidTest\debug\javawriter-2.1.1_00e6ed614873e1acce98aa893f004d74651f9f4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\7b2d0a7d3dc1e480d86b1e5a30eacd979bbdccdf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="C:\Users\User\version-control\Filmings\app\build\intermediates\pre-dexed\androidTest\debug\classes_9dafd2184f92dd98aee4d0c8962dc04a8b84b6c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="C:\Users\User\version-control\Filmings\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-integration-1.3_10da7a124e3b149baac68cc1624263893165fef2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="C:\Users\User\version-control\Filmings\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-library-1.3_bae50dbbe49229b9a385b0ac6b4a382b1c775b6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\d6ab2e74b15684d4caa19879358feb34c8d12bf1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="C:\Users\User\version-control\Filmings\app\build\intermediates\pre-dexed\androidTest\debug\classes_68cb9b256eec4924979090374f1606a079ad0495.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\bb179d081598ba5264a53ec31da3e22e4950b6d1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="C:\Users\User\version-control\Filmings\app\build\intermediates\pre-dexed\androidTest\debug\classes_f1c4e98d15883133982ed30e969e83bc1981b01f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.android\build-cache\fb42809a76f4c49da5da6efdcef5ea18ac162668\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="C:\Users\User\version-control\Filmings\app\build\intermediates\pre-dexed\androidTest\debug\classes_21e759f9018cc254ea2eb65e1781e837f77d3fc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\User\version-control\Filmings\app\build\intermediates\pre-dexed\androidTest\debug\javax.inject-1_e7d52a1fa3d62fd3795a5ceab5dee21cce7ba14f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Users\User\version-control\Filmings\app\build\intermediates\pre-dexed\androidTest\debug\junit-4.12_6c16f77b0d7e305e5e115813524a3fc04c9e0f99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\Users\User\version-control\Filmings\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-core-1.3_73185302ab6e16f4dc96f5f9ed67954ab1f34ba5.jar" />
+    </item>
+
+</items>
